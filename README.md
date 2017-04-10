@@ -70,7 +70,7 @@ Sorted by extension ascending (ASC):
 -rw-rw-r-- 1 lblakej lblakej   9 Apr 10 09:04 sam.txt
 -rw-rw-r-- 1 lblakej lblakej   9 Apr 10 09:04 william.txt
 ```
-## Find all files that start with ma AND ka and sort them by file extension.
+## Find all files that start with ma OR ka and sort them by file extension.
 
 ```
 [lblakej@opal linux-access]$ ls -lX {ma*,ka*}
