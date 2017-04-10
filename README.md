@@ -53,7 +53,7 @@ Remember that Linux is case sensitive. Capital M will only yield the readme file
 ls -lX
 ```
 
-Sorted by extension ASC:
+Sorted by extension ascending (ASC):
 ```
 -rw-rw-r-- 1 lblakej lblakej   9 Apr 10 09:04 kathy.jpg
 -rw-rw-r-- 1 lblakej lblakej   9 Apr 10 09:04 kelly.jpg
