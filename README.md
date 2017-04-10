@@ -26,8 +26,10 @@ cd git clone https://github.com/ljonesdesign/linux-accessinux (hit tab to comple
 here are some commands to try:
 ```
 ls -l *martha*
-this will list all files that contain the string LIKE martha
+```
+this will list all files that contain the string LIKE martha:
 
+```
 [lblakej@opal linux-access]$ ls -l *martha*
 -rw-rw-r-- 1 lblakej lblakej 9 Apr 10 09:04 martha.jpg
 -rw-rw-r-- 1 lblakej lblakej 9 Apr 10 09:04 martha.txt
