@@ -69,3 +69,18 @@ Sorted by extension ascending (ASC):
 -rw-rw-r-- 1 lblakej lblakej   9 Apr 10 09:04 sam.txt
 -rw-rw-r-- 1 lblakej lblakej   9 Apr 10 09:04 william.txt
 ```
+## Find all files that start with ma AND ka and sort them by file extension.
+
+```
+[lblakej@opal linux-access]$ ls -lX {ma*,ka*}
+```
+result:
+
+```
+-rw-rw-r-- 1 lblakej lblakej 9 Apr 10 09:04 kathy.jpg
+-rw-rw-r-- 1 lblakej lblakej 9 Apr 10 09:04 martha.jpg
+-rw-rw-r-- 1 lblakej lblakej 9 Apr 10 09:04 karen.txt
+-rw-rw-r-- 1 lblakej lblakej 9 Apr 10 09:04 kathy.txt
+-rw-rw-r-- 1 lblakej lblakej 9 Apr 10 09:04 martha.txt
+```
+
