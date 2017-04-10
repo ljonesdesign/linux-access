@@ -24,6 +24,8 @@ cd into public_html >
 cd git clone https://github.com/ljonesdesign/linux-accessinux (hit tab to complete)
 
 here are some commands to try:
+
+## Find files with Martha in the name:
 ```
 ls -l *martha*
 ```
@@ -35,6 +37,7 @@ this will list all files that contain the string LIKE martha:
 -rw-rw-r-- 1 lblakej lblakej 9 Apr 10 09:04 martha.txt
 ```
 
+## Find files that have a capital M:
 ```
 ls -l *M*
 ```
@@ -43,12 +46,14 @@ Remember that Linux is case sensitive. Capital M will only yield the readme file
 [lblakej@opal linux-access]$ ls -l *M*
 -rw-rw-r-- 1 lblakej lblakej 463 Apr 10 09:04 README.md
 ```
+
+## Sort all files by file extension (e-**X**-tension)
+
 ```
 ls -lX
 ```
 
-This will list all of the files sorted by file e-**X**-tension:
-
+Sorted by extension ASC:
 ```
 -rw-rw-r-- 1 lblakej lblakej   9 Apr 10 09:04 kathy.jpg
 -rw-rw-r-- 1 lblakej lblakej   9 Apr 10 09:04 kelly.jpg
