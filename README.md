@@ -7,6 +7,7 @@ I am only going to spend a few minutes on this. If you are comfortable logging i
 
 **This git clone is not required, but I will check opal accounts at the end of the semester and if you need to improve your value added grade because of absences it will help your cause to have this directory in opal. (You can do it after class.)**
 
+```
 Mac > 
 terminal > 
 ssh onyen@opal.ils.unc.edu 
@@ -15,13 +16,13 @@ cd into public_html >
 git clone https://github.com/ljonesdesign/linux-access
 cd linux (hit tab to complete)
 
-
 PC > 
 Secure shell client >
 onyen@opal.ils.unc.edu 
 password > enter it
 cd into public_html > 
 cd git clone https://github.com/ljonesdesign/linux-accessinux (hit tab to complete)
+```
 
 here are some commands to try:
 
