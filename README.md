@@ -84,4 +84,3 @@ result:
 -rw-rw-r-- 1 lblakej lblakej 9 Apr 10 09:04 kathy.txt
 -rw-rw-r-- 1 lblakej lblakej 9 Apr 10 09:04 martha.txt
 ```
-
