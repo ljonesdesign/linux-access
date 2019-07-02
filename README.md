@@ -1,11 +1,7 @@
 # linux-sql
 ### A few sample files to introduce SQL Like Concepts
 
-The file systems on Mac, PC, and Linux operating systems are essentially database systems. In this short demo I will ```gitclone``` the files in this repository into my opal account and use the ``ls`` command with some wildcards. You will need to use wildcards in SQL, so the purpose of this demo is to show how the same query concepts can work across multiple operation systems and applications. 
-
-I am only going to spend a few minutes on this. If you are comfortable logging into opal you can git clone the repository and work along with me. If you can't get this done now, just watch me and don't try to follow along.
-
-**This git clone is not required, but I will check opal accounts at the end of the semester and if you need to improve your value added grade because of absences it will help your cause to have this directory in opal. (You can do it after class.)**
+The file systems on Mac, PC, and Linux operating systems are essentially database systems. In this short demo I will ```gitclone``` the files in this repository into my opal account and use the ``ls`` command with some wildcards. You will need to use wildcards in SQL, so the purpose of this demo is to show how the same query concepts can work across multiple operation systems and applications.
 
 ```
 Mac > 
