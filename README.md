@@ -1,7 +1,7 @@
 # linux-access
-### A few sample files to introduce Access Queries
+### A few sample files to introduce SQL Like Concepts
 
-The file systems on Mac, PC, and Linux operating systems are essentially database systems. In this short demo I will ```gitclone``` the files in this repository into my opal account and use the ``ls`` command with some wildcards. You will need to use wildcards in Access, so the purpose of this demo is to show how the same query concepts can work across multiple operation systems and applications. 
+The file systems on Mac, PC, and Linux operating systems are essentially database systems. In this short demo I will ```gitclone``` the files in this repository into my opal account and use the ``ls`` command with some wildcards. You will need to use wildcards in SQL, so the purpose of this demo is to show how the same query concepts can work across multiple operation systems and applications. 
 
 I am only going to spend a few minutes on this. If you are comfortable logging into opal you can git clone the repository and work along with me. If you can't get this done now, just watch me and don't try to follow along.
 
@@ -13,7 +13,7 @@ terminal >
 ssh onyen@opal.ils.unc.edu 
 password > enter it
 cd into public_html > 
-git clone https://github.com/ljonesdesign/linux-access
+git clone https://github.com/ljonesdesign/linux-sql
 cd linux (hit tab to complete)
 
 PC > 
@@ -21,7 +21,7 @@ Secure shell client >
 onyen@opal.ils.unc.edu 
 password > enter it
 cd into public_html > 
-cd git clone https://github.com/ljonesdesign/linux-accessinux (hit tab to complete)
+cd git clone https://github.com/ljonesdesign/linux-sql (hit tab to complete)
 ```
 
 here are some commands to try:
